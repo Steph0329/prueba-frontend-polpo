@@ -25,7 +25,7 @@ Aplicación web construida con React + TypeScript para mostrar chistes aleatorio
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/Steph0329/chuck-norris-jokes.git
+git clone https://github.com/Steph0329/prueba-frontend-polpo
 cd chuck-norris-jokes
 
 Instala las dependencias:
