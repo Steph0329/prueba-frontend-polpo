@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* En tu archivo global.css o styles.css */
+@layer utilities {
+    .scrollbar-thin::-webkit-scrollbar {
+      width: 8px;
+    }
+    .scrollbar-thin::-webkit-scrollbar-track {
+      background: #1a202c; /* Color del track */
+    }
+    .scrollbar-thin::-webkit-scrollbar-thumb {
+      background-color: #4a5568; /* Color del thumb */
+      border-radius: 10px;
+    }
+    .scrollbar-thin {
+      scrollbar-width: thin;
+      scrollbar-color: #4a5568 #1a202c; /* thumb y track para Firefox */
+    }
+}
