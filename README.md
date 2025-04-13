@@ -26,7 +26,7 @@ Aplicación web construida con React + TypeScript para mostrar chistes aleatorio
 
 ```bash
 git clone https://github.com/Steph0329/prueba-frontend-polpo.git
-cd chuck-norris-jokes
+cd prueba-frontend-polpo
 
 Instala las dependencias:
 npm install
